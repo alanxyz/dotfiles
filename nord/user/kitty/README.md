@@ -1,6 +1,7 @@
 # kitty
 ## dependencies
 - kitty
+- jetbrains mono
 ## installation
 place these 2 files into `~/.config/kitty` or run `./nord-kitty.sh`
 ## credit 
