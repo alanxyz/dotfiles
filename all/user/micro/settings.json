@@ -1,0 +1,8 @@
+{
+    "*.py": {
+        "tabsize": 2,
+        "tabstospaces": true
+    },
+    "colorscheme": "monokai",
+    "statusline": false
+}
