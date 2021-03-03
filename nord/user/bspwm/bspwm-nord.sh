@@ -1,4 +1,4 @@
 #!/bin/sh
-cp bspwm ~/.config/ & 
-cp sxhkd ~/.config/ &
+cp -r bspwm ~/.config/ & 
+cp -r sxhkd ~/.config/ &
 echo "bspwm" > ~/.xinitrc
